@@ -1,3 +1,3 @@
-[submodule "services/users-services"]
-    path = services/users-services
-    url = https://github.com/Zack-y11/users-service
+[submodule "services/users-service"]
+	path = services/users-service
+	url = https://github.com/Zack-y11/users-service
